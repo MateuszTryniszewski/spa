@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,s){"use strict";s.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},a=[function(){var t=this,e=t.$createElement,s=t._self._c||e;return s("div",{staticClass:"about"},[s("h1",[t._v("Strona o Mnie!")]),s("p",[t._v("To jest strona ")]),s("i",{staticClass:"fas fa-user-tie icon"}),s("h3",[t._v("Cześć jestem Mateusz")])])}],i=s("2877"),o={},r=Object(i["a"])(o,n,a,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=about.43e809a0.js.map
